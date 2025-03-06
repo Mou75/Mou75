@@ -2,6 +2,8 @@
 
 This is a simple Python project manager that allows you to add and remove projects from a list. Each project has a name, description, technologies used, and a flag indicating whether a Large Language Model (LLM) was involved in its development.
 
+Requirements: Python 3.x
+
 ## Features
 
 - **Add a Project**: Add a new project to the list with details such as name, description, technologies used, and whether an LLM was involved.
